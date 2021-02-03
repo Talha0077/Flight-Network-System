@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/madina/Desktop/Flight Network System/AVL Tree.h
+iostream
+-
+cmath
+-
+
+C:/Users/madina/Desktop/Flight Network System/Adjacency List.h
+iostream
+-
+AVL Tree.h
+C:/Users/madina/Desktop/Flight Network System/AVL Tree.h
+Hash Map.h
+C:/Users/madina/Desktop/Flight Network System/Hash Map.h
+
+C:/Users/madina/Desktop/Flight Network System/Flight Network.h
+iostream
+-
+fstream
+-
+sstream
+-
+Graph.h
+C:/Users/madina/Desktop/Flight Network System/Graph.h
+AVL Tree.h
+C:/Users/madina/Desktop/Flight Network System/AVL Tree.h
+Hash Map.h
+C:/Users/madina/Desktop/Flight Network System/Hash Map.h
+Stack.h
+C:/Users/madina/Desktop/Flight Network System/Stack.h
+
+C:/Users/madina/Desktop/Flight Network System/Graph.h
+iostream
+-
+Adjacency List.h
+C:/Users/madina/Desktop/Flight Network System/Adjacency List.h
+AVL Tree.h
+C:/Users/madina/Desktop/Flight Network System/AVL Tree.h
+Hash Map.h
+C:/Users/madina/Desktop/Flight Network System/Hash Map.h
+Queue.h
+C:/Users/madina/Desktop/Flight Network System/Queue.h
+Stack.h
+C:/Users/madina/Desktop/Flight Network System/Stack.h
+
+C:/Users/madina/Desktop/Flight Network System/Hash Map.h
+iostream
+-
+
+C:/Users/madina/Desktop/Flight Network System/Queue.h
+iostream
+-
+string
+-
+
+C:/Users/madina/Desktop/Flight Network System/Stack.h
+iostream
+-
+
+C:/Users/madina/Desktop/Flight Network System/main.cpp
+iostream
+-
+Flight Network.h
+C:/Users/madina/Desktop/Flight Network System/Flight Network.h
+
